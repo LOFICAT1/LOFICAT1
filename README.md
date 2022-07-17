@@ -8,4 +8,3 @@
 </span>
 </a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/944624289993342996)](https://discord.com/users/944624289993342996)
