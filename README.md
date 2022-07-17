@@ -7,3 +7,5 @@
 <img height="108em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOFICAT1&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide_title=true" />
 </span>
 </a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/944624289993342996)](https://discord.com/users/944624289993342996)
